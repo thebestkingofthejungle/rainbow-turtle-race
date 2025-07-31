@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/268/739/original/simple-village-house-background-vector.jpg);
+
+text-shadow: 4px 4px 5px green;
+}
+.red { 
+    position: relative;
+    top: 200px;
+    left: 500px;
+}
+.orange { 
+    position: relative;
+    top: 250px;
+    left: 180px
+}
+.yellow {
+position: relative;
+top: 300px;
+left: 337px;
+}
+.green {
+position: relative;
+top: 350px;
+left: 259px;
+}
+.blue {
+position: relative;
+top: 400px;
+left: 412px;
+}
+.indigo {
+position: relative;
+top: 450px;
+left: 25px;
+}
+.purple {
+position: relative;
+top: 500px;
+left: 100px;
+}
